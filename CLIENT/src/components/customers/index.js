@@ -176,7 +176,7 @@ const Customers = () => {
 
               <button type="button" className="btn btn-success mt-3 me-1" onClick={insertCustomer}>New Customer</button>
               <button type="button" className="btn btn-warning mt-3 me-1" onClick={updateCustomer}>Update Customer</button>
-              <button type="button" className="btn btn-danger mt-3 me-1" onClick={DeleteCustomer}>Delte Customer</button>
+              <button type="button" className="btn btn-danger mt-3 me-1" onClick={DeleteCustomer}>Delete Customer</button>
 
             </form>
           </div>
