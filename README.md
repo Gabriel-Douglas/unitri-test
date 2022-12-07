@@ -1,0 +1,17 @@
+EXECUTAR LOCAL:
+
+REQUISITOS: 
+
+-PHP
+-MYSQL
+-COMPOSER
+-NODE
+
+-CRIAR O BANCO: NA PASTA /SERVER/sql_database existe o SQL para criar a estrtura do database para a aplicação
+-APÓS CRIAR O BANCO EXECUTAR O SERVIDOR: NA PASTA SERVER, EXECUTAR O CÓDIGO $php artisan serve
+-APÓS INICIAR O SERVIDOR INICIAR O CLIENT: NA PASTA CLIENT, EXECUTAR O CÓDIGO $npm start
+
+DADOS DE ACESSO DA TELA DE LOGIN:
+-LOGIN: admin@unitri.com
+-SENHA: admin
+
